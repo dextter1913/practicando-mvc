@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-4"></div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-4">
-            <form action="?ingresar" method="get">
+            <form action="index.php?ingresar=" method="get">
                 <label for="id">ID</label>
                 <input type="text" name="id" id="id" class="form-control">
                 <label for="nombre">Nombre</label>
